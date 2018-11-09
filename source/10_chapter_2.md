@@ -1,4 +1,4 @@
-# Literature review, with maths
+# Evolution der Microservice-Architektur
 
 <!--
 After the introductory chapter, it seems fairly common to 
@@ -6,11 +6,11 @@ include a chapter that reviews the literature and
 introduces methodology used throughout the thesis.
 -->
 
-## Introduction
+## Monolith
 
-This is the introduction. Duis in neque felis. In hac habitasse platea dictumst. Cras eget rutrum elit. Pellentesque tristique venenatis pellentesque. Cras eu dignissim quam, vel sodales felis. Vestibulum efficitur justo a nibh cursus eleifend. Integer ultrices lorem at nunc efficitur lobortis.
+Ein Monolith ist ein aus einer großen Menge Code bestehendes Software-System, das als ein Prozess ausgeführt wird.
 
-## The middle
+## SOA
 
 This is the literature review. Nullam quam odio, volutpat ac ornare quis, vestibulum nec nulla. Aenean nec dapibus in mL/min^-1^. Mathematical formula can be inserted using Latex:
 
@@ -20,7 +20,7 @@ Nunc eleifend, ex a luctus porttitor, felis ex suscipit tellus, ut sollicitudin 
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed faucibus pulvinar volutpat. Ut semper fringilla erat non dapibus. Nunc vitae felis eget purus placerat finibus laoreet ut nibh.
 
-## Conclusion
+## Microservice
 
 This is the conclusion. Donec pulvinar molestie urna eu faucibus. In tristique ut neque vel eleifend. Morbi ut massa vitae diam gravida iaculis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 
@@ -29,4 +29,12 @@ This is the conclusion. Donec pulvinar molestie urna eu faucibus. In tristique u
 - first item in the list
 - second item in the list
 - third item in the list
+
+## Container
+
+## Orchestrierung
+
+## Monitoring
+
+## Offene Probleme
 
